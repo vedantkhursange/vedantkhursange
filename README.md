@@ -6,7 +6,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/vedantkhursange">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6A00&center=true&vCenter=true&width=640&lines=Building+Orangy+%F0%9F%8D%8A+a+live+e-commerce+platform;Spring+Boot+%2B+Next.js+%2B+Kubernetes;CI%2FCD+with+Jenkins+%26+ArgoCD;MERN+Stack+%E2%80%A2+Java+%E2%80%A2+DSA+%26+OOP;Always+shipping%2C+always+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF6A00&center=true&vCenter=true&width=640&lines=Building+Orangy+%F0%9F%8D%8A+a+live+e-commerce+platform;OrderUnlock+%F0%9F%93%88+real-time+NSE+order+block+scanner;Spring+Boot+%2B+Next.js+%2B+Kubernetes;CI%2FCD+with+Jenkins+%26+ArgoCD;MERN+Stack+%E2%80%A2+Java+%E2%80%A2+DSA+%26+OOP;Always+shipping%2C+always+learning" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,6 +22,7 @@
 
 - 🎓 B.Tech in **Computer Science & Engineering**, based in **Nagpur, India**
 - 🍊 Building **[Orangy](https://github.com/vedantkhursange/Orangy)**, a quick-commerce store live at **[orangeexpress.in](https://orangeexpress.in)**
+- 📈 Built **[OrderUnlock](https://github.com/vedantkhursange/OrderUnlock)**, a free real-time NSE order block scanner with live futures OI
 - ⚙️ I like the whole journey: UI, APIs, databases, containers and pipelines
 - 🌱 Currently going deeper into **Kubernetes, GitOps and system design**
 - 💬 Ask me about **Java, Spring Boot, React/Next.js, MERN, DevOps**
@@ -70,6 +71,21 @@
 ## 🚀 Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>📈 <a href="https://github.com/vedantkhursange/OrderUnlock">OrderUnlock</a></h3>
+      <p>A free, real-time order block scanner for 141 NSE F&amp;O stocks, with every feature unlocked.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/SSE-Real--time-2FE08A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Upstox-Futures%20OI-5A2D82?style=flat-square" />
+      </p>
+      <a href="https://github.com/vedantkhursange/OrderUnlock"><img src="https://raw.githubusercontent.com/vedantkhursange/OrderUnlock/main/docs/desktop-pipeline.png" width="100%" alt="OrderUnlock pipeline" /></a>
+      <sub>Live prices every second over Server-Sent Events. It detects order blocks, break of structure, fair value gaps, VWAP and S/R levels, reads futures OI build-up from Upstox, and ranks a conviction score across a flow → contenders → top-setups pipeline with a hover spotlight. Zero dependencies, no build step.</sub>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🍊 <a href="https://github.com/vedantkhursange/Orangy">Orangy</a></h3>
