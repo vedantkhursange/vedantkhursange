@@ -20,6 +20,7 @@
 
 ## 👨‍💻 About me
 
+- 💼 Currently working as a **Developer at LTM**
 - 🎓 B.Tech in **Computer Science & Engineering**, based in **Nagpur, India**
 - 🍊 Building **[Orangy](https://github.com/vedantkhursange/Orangy)**, a quick-commerce store live at **[orangeexpress.in](https://orangeexpress.in)**
 - 📈 Built **[OrderUnlock](https://github.com/vedantkhursange/OrderUnlock)**, a free real-time NSE order block scanner with live futures OI
